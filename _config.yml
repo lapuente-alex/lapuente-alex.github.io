@@ -23,10 +23,10 @@ repository               : "lapuente-alex/lapuente-alex.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "alex_lmt-150x150.jpeg"
   name             : "Alex's research page."
-  pronouns         : # example: "she/her"  
-  bio              : ""
+  pronouns         : "he/him"  
+  bio              : #""
   location         : "Boston, MA"
   employer         : "Boston University"
   uri              : # URL
