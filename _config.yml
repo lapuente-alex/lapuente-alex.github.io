@@ -24,10 +24,10 @@ repository               : "lapuente-alex/lapuente-alex.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Alex's research page."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : ""
+  location         : "Boston, MA"
   employer         : "Boston University"
   uri              : # URL
   email            : "lapuente[at]bu.edu" 
